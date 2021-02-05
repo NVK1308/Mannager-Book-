@@ -1,0 +1,13 @@
+1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|43 	|B1_G1_L2 	|Nhã Nam 	| 	|
+18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|76 	|B1_G2_L4 	|NXB Mỹ thuật 	| 	|
+4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|24 	|B1_G1_L9 	|NXB Văn học 	| 	|
+8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|33 	|B1_G2_L3 	|NXB Trẻ 	| 	|
+15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|57 	|B1_G1_L8 	|NXB Thanh niên 	| 	|
+13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|10 	|B1_G1_R1 	|NXB Công an nhân dân 	| 	|
+21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|2 	|B1_G1_L1 	|NXB Lao động xã hội 	| 	|
+20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|6 	|B1_G1_L1 	|NXB Hội nhà văn 	| 	|
+9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|21 	|B1_G1_R8 	|NXB Trẻ 	| 	|
+2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|1 	|B1_G2_R1 	|NXB Văn Học 	| 	|
+11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|1 	|B1_G3_R9 	|NXB Thông tấn 	| 	|
+17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|8 	|B1_G2_L6 	|NXB Khoa học xã hội 	| 	|
+7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|0 	|NXB Trẻ 	| 	|

@@ -1,0 +1,17 @@
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.csprojAssemblyReference.cache
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel_text.Form1.resources
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel_text.Properties.Resources.resources
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.csproj.GenerateResource.cache
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.csproj.CoreCompileInputs.cache
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\toolexcel-text.exe.config
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\toolexcel-text.exe
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\toolexcel-text.pdb
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.dll
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.pdb
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.xml
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.csproj.CopyComplete
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.exe
+D:\Gia Sach\Tool xuất excel - text\toolexcel-text\toolexcel-text\obj\Debug\toolexcel-text.pdb

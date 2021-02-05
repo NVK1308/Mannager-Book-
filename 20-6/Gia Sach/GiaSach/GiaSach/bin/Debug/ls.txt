@@ -1,0 +1,186 @@
+17/06/2020 	|Nhập sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|6 	|B1_G1_L6 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|40 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|2 	|B1_G2_R3 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|19 	|Chúa tể của những chiếc nhẫn 	|J. R. R. Tolkien 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|2152 	|20 	|B1_G1_R4 	|NXB Sân khấu 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|15 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|12 	|B1_G2_L1 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|12 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|6 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|12 	|B1_G1_L6 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|6 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|19 	|Chúa tể của những chiếc nhẫn 	|J. R. R. Tolkien 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|2152 	|6 	|B1_G1_R4 	|NXB Sân khấu 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|70 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|100 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|100 	|B1_G1_L1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|70 	|B1_G2_L1 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|81 	|B1_G1_L1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|88 	|B1_G1_R1 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|150 	|B1_G1_L1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|9 	|B1_G1_R6 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|33 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|96 	|B1_G1_L3 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|145 	|B1_G1_L2 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|9 	|B2_G2_L7 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|18 	|B1_G1_R2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|18 	|B1_G1_R2 	|NXB Lao động 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|30 	|B1_G1_R2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|43 	|B1_G1_L4 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|18 	|B1_G1_L6 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|37 	|B1_G1_R2 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|21 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|38 	|B1_G1_R1 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|-1 	|B1_G1_R1 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|5 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|5 	|B1_G1_R1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|5 	|B1_G1_R1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|5 	|B1_G1_R1 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|5 	|B1_G1_R1 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|5 	|B1_G1_R1 	|NXB Lao động 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|5 	|B1_G1_R1 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|5 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|5 	|B1_G1_R1 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Nhập sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|65 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|76 	|B1_G1_L2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|10 	|Vợ nhặt 	|Kim Lân 	|Sách văn học 	|120 	|68 	|B1_G1_R5 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+17/06/2020 	|Xuất sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|38 	|B1_G1_R1 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|4 	|B1_G1_R1 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|15 	|B1_G1_R2 	|NXB Thanh niên 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|5 	|B1_G1_R1 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|5 	|B1_G1_R1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|5 	|B1_G1_R1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|5 	|B1_G1_R1 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|13 	|B1_G1_L1 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|19 	|Chúa tể của những chiếc nhẫn 	|J. R. R. Tolkien 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|2152 	|29 	|B1_G1_R4 	|NXB Sân khấu 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|6 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G2_R3 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|100 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|3 	|B1_G3_R10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|9 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|3 	|B1_G1_R10 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|3 	|B1_G3_R10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|12 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|30 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|20 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|1 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|2 	|B1_G1_R9 	|NXB Thanh niên 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|6 	|B1_G1_R10 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|3 	|B1_G1_R9 	|NXB Thanh niên 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|6 	|B1_G2_R3 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|9 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|6 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|6 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G2_R3 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+18/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+19/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+19/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|14 	|B1_G2_R3 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|6 	|B1_G1_R6 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|5 	|B1_G1_R1 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|9 	|B1_G1_R10 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|6 	|B1_G4_L3 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|6 	|B1_G2_L4 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|9 	|B1_G4_L10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|3 	|B1_G3_R4 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|6 	|B1_G1_R5 	|NXB Công an nhân dân 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|9 	|B1_G5_R2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G2_R2 	|NXB Quân đội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|9 	|B1_G3_R9 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|120 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|20 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|10 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|7 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|90 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|10 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|10 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|9 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|3 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+20/06/2020 	|Nhập sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|3 	|B1_G2_L4 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|6 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|3 	|B1_G4_L4 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|3 	|B1_G1_R5 	|NXB Công an nhân dân 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|3 	|B1_G1_R9 	|NXB Thanh niên 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|3 	|B1_G1_L5 	|NXB Hội nhà văn 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|3 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|3 	|B1_G4_L10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|7 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Xuất sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|2250 	|B1_G1_R1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Xuất sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|5561 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|3 	|B1_G4_L10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|3 	|B1_G1_R9 	|NXB Thanh niên 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|6 	|B1_G4_L10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|6 	|B1_G3_R10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|3 	|B1_G1_R1 	|NXB Lao động 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|3 	|B1_G1_L5 	|NXB Hội nhà văn 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|2 	|B1_G1_R1 	|NXB Lao động 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|6 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|9 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Trả sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|9 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Trả sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|6 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|3 	|B1_G1_L5 	|NXB Hội nhà văn 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Trả sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Trả sách 	|20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|3 	|B1_G3_L2 	|NXB Hội nhà văn 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|46 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|12 	|B1_G3_R3 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Mượn sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Trả sách 	|16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|3 	|B1_G1_L8 	|NXB Lao động 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+22/06/2020 	|Xuất sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|5 	|B1_G2_R5 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|3 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|3 	|B1_G3_R2 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|3 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|6 	|B1_G3_R2 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|20 	|B1_G1_L9 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|11 	|B1_G5_R2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|10 	|B1_G3_R2 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|11 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|3 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|3 	|B1_G4_L4 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|3 	|B1_G5_R2 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|6 	|B1_G1_L9 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|3 	|B1_G3_R2 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Xuất sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|10 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Xuất sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|30 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Xuất sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|10 	|B1_G4_L3 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Xuất sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|6 	|B1_G4_L10 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|20 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|8 	|B1_G2_L4 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|11 	|B1_G1_L9 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|14 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|21 	|B1_G2_R8 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|6 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|6 	|B1_G2_L4 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|21 	|B1_G2_L3 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+23/06/2020 	|Xuất sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|4 	|B1_G4_L3 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+24/06/2020 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|6 	|B1_G3_L3 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+24/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|3 	|B1_G2_L3 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|3 	|B1_G3_L3 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|10 	|B1_G3_R2 	|NXb Kim Đồng 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|3 	|B1_G1_L1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|6 	|B1_G1_L1 	|NXB Hội nhà văn 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R1 	|NXB Văn Học 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|3 	|B1_G1_L9 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|3 	|B1_G3_R9 	|NXB Thông tấn 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|10 	|B1_G1_L9 	|NXB Văn học 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|1 	|B1_G1_L1 	|NXB Lao động xã hội 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|3 	|B1_G2_R3 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|3 	|B1_G1_R1 	|NXB Công an nhân dân 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Nhập sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|3 	|B1_G2_L6 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|5 	|B1_G1_R1 	|NXB Công an nhân dân 	|Nguyễn Văn A 	| 	|
+30/06/2020 	|Xuất sách 	|14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|3 	|B1_G2_R3 	|NXB Kim Đồng 	|Nguyễn Văn A 	| 	|
+23/07/2020 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|3 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|2 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|3 	|B1_G2_L4 	|NXB Mỹ thuật 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|6 	|B1_G2_L6 	|NXB Khoa học xã hội 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|3 	|0 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|9 	|B1_G1_R8 	|NXB Trẻ 	|Nguyễn Văn A 	| 	|
+13/01/2021 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L2 	|Nhã Nam 	|Nguyễn Văn A 	| 	|

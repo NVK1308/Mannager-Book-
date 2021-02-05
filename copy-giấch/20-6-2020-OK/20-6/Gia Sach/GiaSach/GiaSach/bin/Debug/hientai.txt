@@ -1,0 +1,18 @@
+20 	|Trò chơi vương quyền 	|George R. R. Martin 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|5950 	|3 	|B1_G1_L5 	|NXB Hội nhà văn 	| 	|
+16 	|Cô Gái Đến Từ Hôm Qua 	|Nguyễn Nhật Ánh 	|Sách Tôn Giáo - Tâm Linh 	|451 	|5 	|B1_G1_R1 	|NXB Lao động 	| 	|
+21 	|Tam quốc diễn nghĩa 	|La Quán Trung 	|Tiểu thuyết lịch sử 	|2250 	|17 	|B1_G1_R1 	|NXB Lao động xã hội 	| 	|
+4 	|Truyện Kiều 	|Nguyễn Du 	|Sách văn học 	|2000 	|14 	|B1_G3_R3 	|NXB Văn học 	| 	|
+7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|85 	|B1_G1_R8 	|NXB Trẻ 	| 	|
+9 	|Hành trình trở về phương đông 	|Dr Blair Thomas Spalding 	|Sách Tham Khảo 	|450 	|6 	|B1_G3_R10 	|NXB Trẻ 	| 	|
+3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|4 	|B1_G2_R5 	|NXb Kim Đồng 	| 	|
+15 	|Doremon 	|Fujiko Fujio 	|Truyện Tranh, Manga, Comic 	|1000 	|5 	|B1_G1_R9 	|NXB Thanh niên 	| 	|
+2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|3 	|B1_G2_R8 	|NXB Văn Học 	| 	|
+1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L2 	|Nhã Nam 	| 	|
+11 	|Sherlock Holmes 	|Arthur Conan Doyle 	|Sách Kiến Thức Tổng Hợp 	|1810 	|6 	|B1_G4_L3 	|NXB Thông tấn 	| 	|
+18 	|Harry Potter 	|J.K. Rowling 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|55001 	|9 	|B1_G2_L4 	|NXB Mỹ thuật 	| 	|
+8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|9 	|B1_G4_L10 	|NXB Trẻ 	| 	|
+14 	|Tắt đèn 	|Ngô Tất Tố 	|Điện Ảnh - Nhạc - Họa 	|221 	|3 	|B1_G3_R4 	|NXB Kim Đồng 	| 	|
+13 	|Chí Phèo 	|Nam Cao 	|Sách Lịch sử 	|355 	|6 	|B1_G1_R5 	|NXB Công an nhân dân 	| 	|
+6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|9 	|B1_G5_R2 	|NXB Văn học 	| 	|
+12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G2_R2 	|NXB Quân đội 	| 	|
+17 	|Vẽ em bằng màu nỗi  nhớ 	|Tâm Phạm 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|1002 	|9 	|B1_G3_R9 	|NXB Khoa học xã hội 	| 	|

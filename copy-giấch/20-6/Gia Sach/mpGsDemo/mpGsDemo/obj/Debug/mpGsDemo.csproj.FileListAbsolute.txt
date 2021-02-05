@@ -1,0 +1,10 @@
+D:\Gia Sach\mpGsDemo\mpGsDemo\bin\Debug\mpGsDemo.exe.config
+D:\Gia Sach\mpGsDemo\mpGsDemo\bin\Debug\mpGsDemo.exe
+D:\Gia Sach\mpGsDemo\mpGsDemo\bin\Debug\mpGsDemo.pdb
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.csprojAssemblyReference.cache
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.Form1.resources
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.Properties.Resources.resources
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.csproj.GenerateResource.cache
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.csproj.CoreCompileInputs.cache
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.exe
+D:\Gia Sach\mpGsDemo\mpGsDemo\obj\Debug\mpGsDemo.pdb

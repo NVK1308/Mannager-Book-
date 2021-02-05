@@ -1,0 +1,15 @@
+D:\Gia Sach\GiaSach\GiaSach\bin\Debug\GiaSach.exe.config
+D:\Gia Sach\GiaSach\GiaSach\bin\Debug\GiaSach.exe
+D:\Gia Sach\GiaSach\GiaSach\bin\Debug\GiaSach.pdb
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.csprojAssemblyReference.cache
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.Form1.resources
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.Properties.Resources.resources
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.csproj.GenerateResource.cache
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.csproj.CoreCompileInputs.cache
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.exe
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.pdb
+D:\Gia Sach\GiaSach\GiaSach\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.csproj.CopyComplete
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.F_NhapXuat.resources
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.F_Cauhinh.resources
+D:\Gia Sach\GiaSach\GiaSach\obj\Debug\GiaSach.F_NXMT.resources

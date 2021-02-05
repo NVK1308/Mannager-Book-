@@ -1,0 +1,24 @@
+24/06/2020 	|Mượn sách 	|MP1 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|1 	|Nhà giả kim 	|Sách Kiến thức - Bách khoa 	|Nhã Nam 	|B1_G1_L2 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP1 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|18 	|Harry Potter 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|NXB Mỹ thuật 	|B1_G2_L4 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP2 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|13 	|Chí Phèo 	|Sách Lịch sử 	|NXB Công an nhân dân 	|B1_G1_R5 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP2 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|3 	|Thủy hử 	|Tiểu thuyết lịch sử 	|NXb Kim Đồng 	|B1_G3_R2 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|18 	|Harry Potter 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|NXB Mỹ thuật 	|B1_G2_L4 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP4 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|1 	|Nhà giả kim 	|Sách Kiến thức - Bách khoa 	|Nhã Nam 	|B1_G1_L2 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP4 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|18 	|Harry Potter 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|NXB Mỹ thuật 	|B1_G2_L4 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|18 	|Harry Potter 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|NXB Mỹ thuật 	|B1_G2_L4 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|8 	|Vi tiểu bảo 	|Sách Học Ngoại Ngữ 	|NXB Trẻ 	|B1_G2_L3 	|9 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|13 	|Chí Phèo 	|Sách Lịch sử 	|NXB Công an nhân dân 	|B1_G1_R1 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|15 	|Doremon 	|Truyện Tranh, Manga, Comic 	|NXB Thanh niên 	|B1_G1_L8 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|9 	|Hành trình trở về phương đông 	|Sách Tham Khảo 	|NXB Trẻ 	|B1_G3_L3 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|3 	|Thủy hử 	|Tiểu thuyết lịch sử 	|NXb Kim Đồng 	|B1_G3_R2 	|6 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Mượn sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|4 	|Truyện Kiều 	|Sách văn học 	|NXB Văn học 	|B1_G1_L9 	|3 	|24/06/2020 	|24/06/2020 	| 	|0 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Trả sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|8 	|Vi tiểu bảo 	|Sách Học Ngoại Ngữ 	|NXB Trẻ 	|B1_G2_L3 	|9 	|24/06/2020 	|24/06/2020 	|24/06/2020 	|9 	|Quá hạn 6 ngày. 	|
+24/06/2020 	|Trả sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|18 	|Harry Potter 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|NXB Mỹ thuật 	|B1_G2_L4 	|6 	|24/06/2020 	|24/06/2020 	|24/06/2020 	|6 	|Quá hạn 6 ngày. 	|
+30/06/2020 	|Mượn sách 	|MP5 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|8 	|Vi tiểu bảo 	|Sách Học Ngoại Ngữ 	|NXB Trẻ 	|B1_G2_L3 	|3 	|30/06/2020 	|30/06/2020 	| 	|0 	|Quá hạn 0 ngày. 	|
+30/06/2020 	|Mượn sách 	|MP6 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|11 	|Sherlock Holmes 	|Sách Kiến Thức Tổng Hợp 	|NXB Thông tấn 	|B1_G3_R9 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Còn 29 ngày 	|
+30/06/2020 	|Mượn sách 	|MP6 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Sách văn học 	|NXB Văn Học 	|B1_G2_R1 	|2 	|30/06/2020 	|30/07/2020 	| 	|0 	|Còn 29 ngày 	|
+30/06/2020 	|Trả sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|13 	|Chí Phèo 	|Sách Lịch sử 	|NXB Công an nhân dân 	|B1_G1_R1 	|3 	|24/06/2020 	|24/06/2020 	|30/06/2020 	|3 	|Quá hạn 6 ngày. 	|
+30/06/2020 	|Mượn sách 	|MP7 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|NXB Khoa học xã hội 	|B1_G2_L6 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Còn 29 ngày 	|
+30/06/2020 	|Mượn sách 	|MP7 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|11 	|Sherlock Holmes 	|Sách Kiến Thức Tổng Hợp 	|NXB Thông tấn 	|B1_G3_R9 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Còn 29 ngày 	|
+30/06/2020 	|Trả sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|9 	|Hành trình trở về phương đông 	|Sách Tham Khảo 	|NXB Trẻ 	|B1_G3_L3 	|3 	|24/06/2020 	|24/06/2020 	|30/06/2020 	|3 	|Quá hạn 6 ngày. 	|
+30/06/2020 	|Trả sách 	|MP3 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|15 	|Doremon 	|Truyện Tranh, Manga, Comic 	|NXB Thanh niên 	|B1_G1_L8 	|3 	|24/06/2020 	|24/06/2020 	|30/06/2020 	|3 	|Quá hạn 6 ngày. 	|

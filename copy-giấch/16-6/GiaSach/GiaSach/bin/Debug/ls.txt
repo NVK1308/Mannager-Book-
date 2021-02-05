@@ -1,0 +1,22 @@
+16/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|3 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|6 	|B1_G1_L6 	| 	|Nguyễn Văn A 	|NXB Văn học 	|
+16/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|6 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|1 	|B1_G1_R7 	| 	|Nguyễn Văn A 	|NXB Trẻ 	|
+16/06/2020 	|Mượn sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|2 	|B1_G2_L1 	| 	|Nguyễn Văn A 	|NXB Văn học 	|
+16/06/2020 	|Mượn sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|2 	|B1_G1_R1 	| 	|Nguyễn Văn A 	|NXB Văn Học 	|
+16/06/2020 	|Xuất sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|3 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Xuất sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|1 	|B1_G1_R7 	| 	|Nguyễn Văn A 	|NXB Trẻ 	|
+16/06/2020 	|Xuất sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|1 	|B1_G1_L7 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Xuất sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|2 	|B1_G1_R1 	| 	|Nguyễn Văn A 	|NXB Văn Học 	|
+16/06/2020 	|Xuất sách 	|6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|1 	|B1_G2_L1 	| 	|Nguyễn Văn A 	|NXB Văn học 	|
+16/06/2020 	|Xuất sách 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|1 	|B1_G1_R1 	| 	|Nguyễn Văn A 	|NXB Văn Học 	|
+16/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|6 	|B1_G1_L1 	| 	|Nguyễn Văn A 	|NXB Văn học 	|
+16/06/2020 	|Nhập sách 	|1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|1 	|B1_G1_R2 	| 	|Nguyễn Văn A 	|Nhã Nam 	|
+16/06/2020 	|Nhập sách 	|7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|15 	|B1_G1_L1 	| 	|Nguyễn Văn A 	|NXB Trẻ 	|
+16/06/2020 	|Nhập sách 	|8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|3 	|B1_G1_L2 	| 	|Nguyễn Văn A 	|NXB Trẻ 	|
+16/06/2020 	|Nhập sách 	|5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|3 	|B1_G1_L2 	| 	|Nguyễn Văn A 	|NXB Văn học 	|
+16/06/2020 	|Nhập sách 	|12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G1_R3 	| 	|Nguyễn Văn A 	|NXB Quân đội 	|
+16/06/2020 	|Nhập sách 	|3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|12 	|B1_G1_L3 	|NXb Kim Đồng 	| 	|Nguyễn Văn A 	|
+16/06/2020 	|Nhập sách 	|19 	|Chúa tể của những chiếc nhẫn 	|J. R. R. Tolkien 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|2152 	|12 	|B1_G1_R4 	|NXB Sân khấu 	|Nguyễn Văn A 	| 	|

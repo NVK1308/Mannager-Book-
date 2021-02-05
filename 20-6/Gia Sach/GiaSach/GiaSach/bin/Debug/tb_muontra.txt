@@ -1,0 +1,5 @@
+MP5 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|8 	|Vi tiểu bảo 	|Sách Học Ngoại Ngữ 	|NXB Trẻ 	|B1_G2_L3 	|3 	|30/06/2020 	|30/06/2020 	| 	|0 	|Quá hạn 197 ngày 	|
+MP6 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|11 	|Sherlock Holmes 	|Sách Kiến Thức Tổng Hợp 	|NXB Thông tấn 	|B1_G3_R9 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Quá hạn 167 ngày 	|
+MP6 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|2 	|Cho tôi xin một vé về tuổi thơ 	|Sách văn học 	|NXB Văn Học 	|B1_G2_R1 	|2 	|30/06/2020 	|30/07/2020 	| 	|0 	|Quá hạn 167 ngày 	|
+MP7 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|17 	|Vẽ em bằng màu nỗi  nhớ 	|Sách Văn Hóa - Địa Lý - Du Lịch 	|NXB Khoa học xã hội 	|B1_G2_L6 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Quá hạn 167 ngày 	|
+MP7 	|BD1 	|Nguyễn Thị C 	|Nguyễn Văn A 	|11 	|Sherlock Holmes 	|Sách Kiến Thức Tổng Hợp 	|NXB Thông tấn 	|B1_G3_R9 	|1 	|30/06/2020 	|30/07/2020 	| 	|0 	|Quá hạn 167 ngày 	|

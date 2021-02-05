@@ -1,0 +1,9 @@
+6 	|Dế mèn phiêu lưu ký 	|Tô Hoài 	|Sách Bà mẹ - Em bé 	|230 	|13 	|B1_G2_L1 	|NXB Văn Học 	| 	|
+2 	|Cho tôi xin một vé về tuổi thơ 	|Nguyễn Nhật Ánh 	|Sách văn học 	|150 	|13 	|B1_G1_R1 	|NXB Văn Học 	| 	|
+1 	|Nhà giả kim 	|Paulo Ceolho 	|Sách Kiến thức - Bách khoa 	|228 	|1 	|B1_G1_R2 	|Nhã Nam 	| 	|
+7 	|Số đỏ 	|Vũ Trọng Phụng 	|Sách Giáo Khoa - Giáo Trình 	|1500 	|27 	|B1_G1_L1 	|NXB Trẻ 	| 	|
+8 	|Vi tiểu bảo 	|Kim Dung 	|Sách Học Ngoại Ngữ 	|3051 	|9 	|B1_G1_L2 	|NXB Trẻ 	| 	|
+5 	|Tây du ký 	|Ngô Thừ Ân 	|Sách kỹ năng sống 	|526 	|3 	|B1_G1_L2 	|NXB Văn học 	| 	|
+12 	|Nhà nàng ở cạnh nhà tôi 	|Lini thông minh 	|Sách Khoa Học - Kỹ Thuật 	|350 	|3 	|B1_G1_R3 	|NXB Quân đội 	| 	|
+3 	|Thủy hử 	|Thi Nại Am 	|Tiểu thuyết lịch sử 	|5561 	|12 	|B1_G1_L3 	|NXb Kim Đồng 	| 	|
+19 	|Chúa tể của những chiếc nhẫn 	|J. R. R. Tolkien 	|Truyện Giả tưởng - Huyền Bí - Phiêu Lưu 	|2152 	|12 	|B1_G1_R4 	|NXB Sân khấu 	| 	|
